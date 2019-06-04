@@ -6044,8 +6044,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   waypointPrefab: {fileID: 5051481045429278881, guid: 6506089585bd5204290d706e35edf80d,
     type: 3}
-  NPC1: {fileID: 900112051}
-  NPC2: {fileID: 292620989}
+  npc1: {fileID: 900112051}
+  npc2: {fileID: 292620989}
 --- !u!4 &1743722355
 Transform:
   m_ObjectHideFlags: 0
